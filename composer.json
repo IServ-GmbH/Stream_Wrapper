@@ -16,20 +16,10 @@
             "role": "lead"
         }
     ],
-    "version": "2.1.4",
+    "version": "103",
     "time": "2018-01-25",
-    "repositories": [
-        {
-            "type": "pear",
-            "url": "https://pear.horde.org"
-        }
-    ],
     "require": {
-        "php": "^5.3 || ^7"
-    },
-    "replace": {
-        "pear-pear.horde.org/Horde_Stream_Wrapper": "2.*",
-        "pear-horde/Horde_Stream_Wrapper": "2.*"
+        "php": ">=7.3"
     },
     "autoload": {
         "psr-0": {
