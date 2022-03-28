@@ -16,8 +16,6 @@
             "role": "lead"
         }
     ],
-    "version": "103",
-    "time": "2018-01-25",
     "require": {
         "php": ">=7.3"
     },
